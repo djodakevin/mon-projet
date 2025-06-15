@@ -1,4 +1,5 @@
-Copieur Automatique de Clé USB (usb_copier.py)
+🔐Copieur Automatique de Clé USB (usb_copier.py)
+
 🎯 Objectif
 Détecter automatiquement une clé USB donnée (par nom de volume) et en copier tout le contenu dans un répertoire prédéfini sur le système.
 
