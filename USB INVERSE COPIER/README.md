@@ -1,4 +1,9 @@
+🔁 Copieur Inverse Automatique vers Clé USB (usb_Inversecopier.py)
+
+
 🎯 Objectif
+
+
 Ce script détecte automatiquement une clé USB cible par son nom de volume (ex: WINSETUP) et copie dans celle-ci tout le contenu d’un dossier local (ex: C:\Users\HP\Desktop\KALI). C’est l’inverse du comportement d’un copieur classique.
 
 Il est utile pour :
